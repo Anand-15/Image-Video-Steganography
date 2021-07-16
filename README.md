@@ -1,5 +1,6 @@
-# Video-Steganography
-Video Steganography in python.
+Image and Video Steganography in python.
+
+• Image Steganography : As the name suggests, Image Steganography refers to the process of hiding data within an image file. The image selected for this purpose is called the cover-image and the image obtained after steganography is called the stego-image.
 • Video Steganography : As the name suggests, Video Steganography refers to the process of hiding data within a Video file. The data is hidden inside a particular frame of the video file. In this OEP, we are going to use a method known as Least Significant Bit (LSB) transformation to hide the data inside a
 
 Understanding the Process of Image Steganography
